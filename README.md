@@ -4,3 +4,5 @@
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) or Logitech Options+ to change external mouse scroll wheel direction
 - Control monitor and original display brightness separately: [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 - [Rectangle](https://rectangleapp.com/) for window control.
+- [AltTab](https://alt-tab-macos.netlify.app/) for better window switching. Configure cmd+tab instead of alt+tab in the settings.
+- Install Logi Options+. Configure mouse scroll direction and keyboard fn key.
